@@ -20,6 +20,7 @@ export default function Home() {
             Get started by editing&nbsp; Rajnikant
             <code className={styles.code}>pages/index.js</code>
             <p>I'm pro developer</p>
+            <p>I'm pro Rajnikant</p>
           </p>
           <div>
             <a
